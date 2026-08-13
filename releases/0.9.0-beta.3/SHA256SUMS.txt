@@ -1,0 +1,2 @@
+﻿0f10aa426f2da1a853c4ca8e5685405edc2290a6f02252be8b5b4e73ed0aac39  TadbikliSetup-0.9.0-beta.3.exe
+8f77865de299f04c2f292d9e75f30078be26fbfd5f5875fa1d171885fb706eba  Tadbikli-0.9.0-beta.3-win-x64.zip

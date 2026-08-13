@@ -1,0 +1,15 @@
+*.pem
+!production-update-public.pem
+*.key
+*.pfx
+*.p12
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.wav
+*.mp3
+credentials/
+user-data/
+artifacts/
+temp/
