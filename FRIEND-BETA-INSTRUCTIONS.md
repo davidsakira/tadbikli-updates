@@ -11,7 +11,7 @@
 
 ## התקנה
 
-1. הורד את `TadbikliSetup-0.9.0-beta.5.exe` מה־GitHub Release הרשמי.
+1. הורד את `TadbikliSetup-0.9.0-beta.4.exe` מה־GitHub Release הרשמי.
 2. Windows SmartScreen עשוי להציג `Unknown publisher`, משום שגרסת הבטא עדיין
    אינה חתומה ב־Authenticode. בחר `More info` ואז `Run anyway`.
 3. השלם את מסך ההיכרות, בחר מיקרופון ומקש הפעלה.
